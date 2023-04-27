@@ -28,6 +28,7 @@
 ## 1. Project Status
 
 Project is: _done_ 
+<br/>
 This project is the final project of a one-year MERN Stack course by DCI, officially presented on 02.02.2023. 
 <br/>
 
